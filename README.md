@@ -1,4 +1,4 @@
-# 5. PopUp ✨
+# PopUp ✨
 Click the submit button, and voila! A smoothly transitioned popup emerges.
 
 [Go to Project](https://km-js.github.io/pop-up)
